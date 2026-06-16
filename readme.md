@@ -11,6 +11,7 @@ Only the previous generation and older versions of the MeshHam design are open-s
 ## 📂 Repository Structure
 * `/STL` - 3D models and printable files for the handheld enclosure.
 * `/BoM` - Bill of Materials, detailing all required hardware, screws, and electronic components.
+* `/Images` - Photos, hardware screenshots, and reference diagrams of the device.
 * `/Docs` - Assembly instructions and additional documentation.
 
 ## ⚖️ License
