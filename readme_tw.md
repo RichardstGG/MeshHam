@@ -1,6 +1,6 @@
 # MeshHam - Meshtastic 手持節點
 
-[🇺🇸 / 🇬🇧 Click here for English version](README.md)
+[🇺🇸 / 🇬🇧 Click here for English version](readme.md)
 
 歡迎來到 **MeshHam** Meshtastic 手持節點的開源庫。本專案提供了自行組裝 MeshHam 所需的所有開源資源，包含物料清單 (BoM)、3D 列印外殼的 STL 檔案以及相關說明文件。
 

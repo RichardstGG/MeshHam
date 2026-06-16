@@ -1,6 +1,6 @@
 # MeshHam - Meshtastic Handheld Node
 
-[🇹🇼 / 🇨🇳 點擊這裡查看中文版 (Traditional Chinese) ](README_ZH.md)
+[🇹🇼 / 🇨🇳 點擊這裡查看中文版 (Traditional Chinese) ](readme_tw.md)
 
 Welcome to the open-source repository for the **MeshHam** Meshtastic handheld node. This repository contains the Bill of Materials (BoM), 3D printable STL files for the custom enclosure, and other related resources for building your own MeshHam device.
 
